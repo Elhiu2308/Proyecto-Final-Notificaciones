@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052566100752",
+    "project_id": "ejemplo-firebase-91be0",
+    "storage_bucket": "ejemplo-firebase-91be0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052566100752:android:3e111d3f1e43abdbe9a395",
+        "android_client_info": {
+          "package_name": "com.example.notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4kNbk8amb_W9nsCvBQZzAjzVapKnW5EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
