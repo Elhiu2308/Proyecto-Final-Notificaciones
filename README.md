@@ -2,7 +2,7 @@
 
 ## Notificaciones Firebase
 
-Se realizarn pruebas enviando notificaciones desde Firebase con exito.
+Se realizaron pruebas enviando notificaciones desde Firebase con exito.
 
 ![image](https://github.com/user-attachments/assets/9b3d8c2d-a125-4a39-9c79-2ae2d202aa55)
 
